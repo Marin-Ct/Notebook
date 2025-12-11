@@ -1,0 +1,3 @@
+Hello World! This is a sample text.
+It has multiple sentences. Some words are longer than others, such as multiple or sentences.
+Numbers (123) should be ignored for letter counts.
