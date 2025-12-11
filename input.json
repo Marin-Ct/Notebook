@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Xenomorph",
+    "species": "Xenomorph XX121",
+    "universe": "Alien"
+  },
+  {
+    "id": 2,
+    "name": "Yoda",
+    "species": "Unknown",
+    "universe": "Star Wars"
+  },
+  {
+    "id": 3,
+    "name": "Spock",
+    "species": "Vulcan",
+    "universe": "Star Trek"
+  },
+  {
+    "id": 4,
+    "name": "Groot",
+    "species": "Flora Colossus",
+    "universe": "Marvel"
+  }
+]
