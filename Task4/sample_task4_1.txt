@@ -1,0 +1,2 @@
+Hello! This is the first sample file.
+It has two sentences.
